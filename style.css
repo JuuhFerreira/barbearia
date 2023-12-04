@@ -3,7 +3,8 @@
 }
 
 .principal{
-	background: #CCCCCC;
+	background: #3f0813;
+	color: white;
 	padding: 30px;
 }
 
@@ -13,6 +14,10 @@
 
 .titulo-centralizado {
 	text-align: center
+}
+.titulo-beneficios {
+	text-align: center;
+	color: #3f0813;
 }
 
 p {
@@ -43,6 +48,38 @@ ul {
 	margin-right: 15%;
 }
 
-.imagembeneficios {
-	width: 50%;
+.imagensGerais {
+	width: 30%;
+	margin-left: 20px;
+}
+
+.imagemMasculino {
+	width: 228.467px;
+	height: 263.217px;
+	margin-left: 20px;
+}
+
+#corte_feminino {
+	background-color: #3f0813;
+	width: 40%;
+	display: inline-block;
+}
+
+#corte_masculino {
+	background-color: #3f0813;
+	width: 40%;
+	display: inline-block;
+}
+
+#div_beneficios {
+	width: 100%;
+	background-color: #3f0813;
+}
+
+.formatacaoTexto {
+	width: 30%;
+	margin-left: 20px;
+	height: 20%;
+	text-align: center;
+	color: white;
 }
